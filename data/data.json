@@ -1,0 +1,1500 @@
+{
+	"data":[
+	  {
+	    "PADD":"PADD 1",
+	    "State":"GEORGIA",
+	    "Company":"SOUTHWEST GEORGIA ETHANOL LLC",
+	    "Site Name":"CAMILLA",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 1",
+	    "State":"NEW YORK",
+	    "Company":"WESTERN NEW YORK ENERGY LLC",
+	    "Site Name":"MEDINA",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 1",
+	    "State":"PENNSYLVANIA",
+	    "Company":"PENNSYLVANIA GRAIN PRCSG LLC",
+	    "Site Name":"PGP",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ABENGOA BIOENERGY OF ILLINOIS LLC",
+	    "Site Name":"MADISON",
+	    "(MM gal / yr)":88,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ADKINS ENERGY LLC",
+	    "Site Name":"LENA",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ADM DECATUR IL",
+	    "Site Name":"DECATUR",
+	    "(MM gal / yr)":365,
+	    "(mb/d)":24
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ADM PEORIA IL",
+	    "Site Name":"PEORIA",
+	    "(MM gal / yr)":185,
+	    "(mb/d)":12
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"AVENTINE RENEWABLE ENERGY INC",
+	    "Site Name":"PEKIN",
+	    "(MM gal / yr)":153,
+	    "(mb/d)":10
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"BIG RIVER RESOURCES GALVA LLC",
+	    "Site Name":"GALVA",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"CENTER ETHANOL CO LLC",
+	    "Site Name":"SAUGET",
+	    "(MM gal / yr)":54,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ILLINOIS CORN PROCESSING LLC",
+	    "Site Name":"PEKIN",
+	    "(MM gal / yr)":90,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ILLINOIS RIVER ENERGY LLC",
+	    "Site Name":"ROCHELLE",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"LINCOLNLAND AGRI-ENERGY LLC",
+	    "Site Name":"PALESTINE",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"MARQUIS ENERGY LLC",
+	    "Site Name":"HENNEPIN",
+	    "(MM gal / yr)":146,
+	    "(mb/d)":10
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"ONE EARTH ENERGY LLC",
+	    "Site Name":"GIBSON CITY",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"PATRIOT RENEWABLE FUELS LLC",
+	    "Site Name":"ANNAWAN",
+	    "(MM gal / yr)":130,
+	    "(mb/d)":8
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"ILLINOIS",
+	    "Company":"TATE & LYLE",
+	    "Site Name":"DECATUR",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"ABENGOA BIOENERGY OF INDIANA LLC",
+	    "Site Name":"MOUNT VERNON",
+	    "(MM gal / yr)":88,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"ANDERSONS CLYMERS ETHANOL LLC",
+	    "Site Name":"LOGANSPORT",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"CARDINAL ETHANOL LLC",
+	    "Site Name":"UNION CITY",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"CENTRAL INDIANA ETHANOL LLC",
+	    "Site Name":"MARION",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"GRAIN PROCESSING CORP",
+	    "Site Name":"WASHINGTON",
+	    "(MM gal / yr)":35,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"GREEN PLAINS BLUFFTON LLC",
+	    "Site Name":"BLUFFTON",
+	    "(MM gal / yr)":101,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"IROQUOIS BIO-ENERGY CO LLC",
+	    "Site Name":"RENSSELAER",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"NORTH MANCHESTER ETHANOL LLC",
+	    "Site Name":"NORTH MANCHESTER",
+	    "(MM gal / yr)":68,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"POET BIOREFINING - CLOVERDALE",
+	    "Site Name":"CLOVERDALE",
+	    "(MM gal / yr)":90,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"PREMIER ETHANOL LLC",
+	    "Site Name":"PORTLAND",
+	    "(MM gal / yr)":73,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"ULTIMATE ETHANOL LLC",
+	    "Site Name":"ALEXANDRIA",
+	    "(MM gal / yr)":65,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"INDIANA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"LINDEN",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"ABSOLUTE ENERGY LLC",
+	    "Site Name":"ST ANSGAR",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"ADM CEDAR RAPIDS IA DRY MILL",
+	    "Site Name":"CEDAR RAPIDS DRY MILL",
+	    "(MM gal / yr)":275,
+	    "(mb/d)":18
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"ADM CEDAR RAPIDS IA WET MILL",
+	    "Site Name":"CEDAR RAPIDS WET MILL",
+	    "(MM gal / yr)":240,
+	    "(mb/d)":16
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"ADM CLINTON IA",
+	    "Site Name":"CLINTON",
+	    "(MM gal / yr)":237,
+	    "(mb/d)":15
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"ANDERSONS DENISON ETHANOL LLC",
+	    "Site Name":"DENISON",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"BIG RIVER RESOURCES LLC",
+	    "Site Name":"WEST BURLINGTON",
+	    "(MM gal / yr)":92,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"BIG RIVER UNITED ENERGY LLC",
+	    "Site Name":"DYERSVILLE",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"CARGILL INC",
+	    "Site Name":"EDDYVILLE",
+	    "(MM gal / yr)":37,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"CORN LP",
+	    "Site Name":"GOLDFIELD",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":null
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FLINT HILLS RESOURCES FAIRBANK LLC",
+	    "Site Name":"FAIRBANK",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FLINT HILLS RESOURCES LLC",
+	    "Site Name":"ARTHUR",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FLINT HILLS RESRCS IOWA FALLS",
+	    "Site Name":"IOWA FALLS",
+	    "(MM gal / yr)":80,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FLINT HILLS RESRCS MENLO LLC",
+	    "Site Name":"MENLO",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FLINT HILLS RESRCS SHELL ROCK",
+	    "Site Name":"SHELL ROCK",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"FRONTIER ETHANOL LLC",
+	    "Site Name":"GOWRIE",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"GOLDEN GRAIN ENERGY LLC",
+	    "Site Name":"MASON CITY",
+	    "(MM gal / yr)":107,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"GRAIN PROCESSING CORP",
+	    "Site Name":"MUSCATINE",
+	    "(MM gal / yr)":78,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"GREEN PLAINS HOLDINGS II LLC - L",
+	    "Site Name":"LAKOTA",
+	    "(MM gal / yr)":95,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"GREEN PLAINS SHENANDOAH LLC",
+	    "Site Name":"SHENANDOAH",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"GREEN PLAINS SUPERIOR LLC",
+	    "Site Name":"SUPERIOR",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"HOMELAND ENERGY SOLUTIONS LLC",
+	    "Site Name":"LAWLER",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"HORIZON ETHANOL LLC",
+	    "Site Name":"JEWELL",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"IOWA ETHANOL",
+	    "Site Name":"HANLONTOWN",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"LINCOLNWAY ENERGY LLC",
+	    "Site Name":"NEVADA",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"LITTLE SIOUX CORN PROCESSORS LP",
+	    "Site Name":"MARCUS",
+	    "(MM gal / yr)":92,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"LOUIS DREYFUS COMMODITIES",
+	    "Site Name":"GRAND JUNCTION",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"OTTER CREEK ETHANOL LLC",
+	    "Site Name":"ASHTON",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"PENFORD PRODUCTS CO",
+	    "Site Name":"CEDAR RAPIDS",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"PINE LAKE CORN PROCESSORS LP",
+	    "Site Name":"STEAMBOAT ROCK",
+	    "(MM gal / yr)":20,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"PINNACLE ETHANOL LLC",
+	    "Site Name":"CORNING",
+	    "(MM gal / yr)":77,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"PLYMOUTH ENERGY LLC",
+	    "Site Name":"MERRILL",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"QUAD COUNTY CORN PROCESSORS",
+	    "Site Name":"GALVA",
+	    "(MM gal / yr)":29,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"SIOUXLAND ENERGY & LIVESTOCK CO-OP",
+	    "Site Name":"SIOUX CENTER",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"SOUTHWEST IOWA RENEWABLE ENERGY LLC",
+	    "Site Name":"COUNCIL BLUFFS",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"TALL CORN ETHANOL COOP",
+	    "Site Name":"COON RAPIDS",
+	    "(MM gal / yr)":48,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"ALBERT CITY",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"CHARLES CITY",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"FORT DODGE",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"HARTLEY",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"IOWA",
+	    "Company":"VOYAGER ETHANOL LLC",
+	    "Site Name":"EMMETSBURG",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"ARKALON ETHANOL LLC",
+	    "Site Name":"LIBERAL",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"BONANZA BIOENERGY LLC",
+	    "Site Name":"BONANZA",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"EAST KANSAS AGRI-ENERGY LLC",
+	    "Site Name":"GARNETT",
+	    "(MM gal / yr)":35,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"KANSAS ETHANOL LLC",
+	    "Site Name":"LYONS",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"MGP INGREDIENTS INC",
+	    "Site Name":"ATCHISON",
+	    "(MM gal / yr)":20,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"PRAIRIE HORIZON AGRI-ENERGY LLC",
+	    "Site Name":"PHILLIPSBURG",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"REEVE AGRI ENERGY INC",
+	    "Site Name":"GARDEN CITY",
+	    "(MM gal / yr)":12,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"US ENERGY PARTNERS",
+	    "Site Name":"RUSSELL",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KANSAS",
+	    "Company":"WESTERN PLAINS ENERGY LLC",
+	    "Site Name":"OAKLEY",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KENTUCKY",
+	    "Company":"COMMONWEALTH AGRI-ENERGY LLC",
+	    "Site Name":"HOPKINSVILLE",
+	    "(MM gal / yr)":30,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"KENTUCKY",
+	    "Company":"PARALLEL PRODUCTS OF KENTUCKY",
+	    "Site Name":"LOUISVILLE",
+	    "(MM gal / yr)":5,
+	    "(mb/d)":0
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MICHIGAN",
+	    "Company":"ANDERSONS ALBION ETHANOL LLC",
+	    "Site Name":"ALBION",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MICHIGAN",
+	    "Company":"CARBON GREEN BIOENERGY LLC",
+	    "Site Name":"LAKE ODESSA",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MICHIGAN",
+	    "Company":"GREEN PLAINS HOLDINGS II",
+	    "Site Name":"RIGA",
+	    "(MM gal / yr)":57,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MICHIGAN",
+	    "Company":"MARYSVILLE ETHANOL LLC",
+	    "Site Name":"MARYSVILLE",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MICHIGAN",
+	    "Company":"MICHIGAN ETHANOL LLC",
+	    "Site Name":"CARO",
+	    "(MM gal / yr)":46,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"ADM MARSHALL MN",
+	    "Site Name":"MARSHALL",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"AGRA RESOURCES COOP",
+	    "Site Name":"ALBERTA LEA",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"AGRI-ENERGY LLC",
+	    "Site Name":"LUVERNE",
+	    "(MM gal / yr)":18,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"AL-CORN CLEAN FUEL",
+	    "Site Name":"CLAREMONT",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"BUSHMILLS ETHANOL INC",
+	    "Site Name":"ATWATER",
+	    "(MM gal / yr)":65,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"CENTRAL MINNESOTA ETHANOL COOP",
+	    "Site Name":"LITTLE FALLS",
+	    "(MM gal / yr)":15,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"CHIPPEWA VALLEY ETHANOL CO LLLP",
+	    "Site Name":"BENSON",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"DENCO II LLC",
+	    "Site Name":"MORRIS",
+	    "(MM gal / yr)":25,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"ETHANOL 2000 LLP",
+	    "Site Name":"BINGHAM LAKE",
+	    "(MM gal / yr)":35,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"GRANITE FALLS ENERGY LLC",
+	    "Site Name":"GRANITE FALLS",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"GREEN PLAINS FAIRMONT LLC",
+	    "Site Name":"FAIRMONT",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"GREEN PLAINS OTTER TAIL LLC",
+	    "Site Name":"FERGUS FALLS",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"GUARDIAN ENERGY LLC",
+	    "Site Name":"JANESVILLE",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"HEARTLAND CORN PRODUCTS",
+	    "Site Name":"WINTHROP",
+	    "(MM gal / yr)":85,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"HERON LAKE BIOENERGY LLC",
+	    "Site Name":"HERON LAKE",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"HIGHWATER ETHANOL LLC",
+	    "Site Name":"LAMBERTON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"NORTHSTAR ETHANOL LLC",
+	    "Site Name":"LAKE CRYSTAL",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"PRO CORN LLC",
+	    "Site Name":"PRESTON",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MINNESOTA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"WELCOME",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"GOLDEN TRIANGLE ENERGY LLC",
+	    "Site Name":"CRAIG",
+	    "(MM gal / yr)":21,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"LIFELINE FOODS LLC",
+	    "Site Name":"SAINT JOSEPH",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"MID-MISSOURI ENERGY LLC",
+	    "Site Name":"MALTA BEND",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"MISSOURI ETHANOL LLC",
+	    "Site Name":"MISSOURI",
+	    "(MM gal / yr)":59,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"NORTHEAST MISSOURI GRAIN LLC",
+	    "Site Name":"MACON",
+	    "(MM gal / yr)":36,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"MISSOURI",
+	    "Company":"SHOW ME ETHANOL LLC",
+	    "Site Name":"CARROLLTON",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"ABENGOA BIOENERGY CORP",
+	    "Site Name":"YORK",
+	    "(MM gal / yr)":58,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"ABENGOA BIOENERGY OF NEBRASKA LLC",
+	    "Site Name":"RAVENNA",
+	    "(MM gal / yr)":88,
+	    "(mb/d)":6
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"ADM COLUMBUS NE DRY MILL",
+	    "Site Name":"COLUMBUS DRY MILL",
+	    "(MM gal / yr)":275,
+	    "(mb/d)":18
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"ADM COLUMBUS NE WET MILL",
+	    "Site Name":"COLUMBUS WET MILL",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"BRIDGEPORT ETHANOL LLC",
+	    "Site Name":"BRIDGEPORT",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"CARGILL INC",
+	    "Site Name":"BLAIR",
+	    "(MM gal / yr)":210,
+	    "(mb/d)":14
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"CHIEF ETHANOL FUELS INC",
+	    "Site Name":"HASTINGS",
+	    "(MM gal / yr)":70,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"CORNHUSKER ENRGY LEXINGTON LLC",
+	    "Site Name":"LEXINGTON",
+	    "(MM gal / yr)":52,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"E ENERGY ADAMS",
+	    "Site Name":"ADAMS",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"ELKHORN VALLEY ETHANOL LLC",
+	    "Site Name":"NORFOLK",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"FLINT HILLS RESOURCES",
+	    "Site Name":"FAIRMONT",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"GREEN PLAINS ATKINSON",
+	    "Site Name":"ATKINSON",
+	    "(MM gal / yr)":47,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"GREEN PLAINS CENTRAL CITY LLC",
+	    "Site Name":"CENTRAL CITY",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"GREEN PLAINS ORD LLC",
+	    "Site Name":"ORD",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"GREEN PLAINS WOOD RIVER LLC",
+	    "Site Name":"WOOD RIVER",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"HUSKER AG LLC",
+	    "Site Name":"PLAINVIEW",
+	    "(MM gal / yr)":76,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"KAAPA ETHANOL LLC",
+	    "Site Name":"MINDEN",
+	    "(MM gal / yr)":59,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"MID AMERICA AGRI PRODUCTS LLC",
+	    "Site Name":"MADRID",
+	    "(MM gal / yr)":41,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"MIDWEST RENEWABLE ENERGY LLC",
+	    "Site Name":"SUTHERLAND",
+	    "(MM gal / yr)":28,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"NEBRASKA CORN PROCESSING LLC",
+	    "Site Name":"CAMBRIDGE",
+	    "(MM gal / yr)":44,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"SIOUXLAND ETHANOL LLC",
+	    "Site Name":"JACKSON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"TRENTON AGRI PRODUCTS LLC",
+	    "Site Name":"TRENTON",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NEBRASKA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"ALBION",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NORTH DAKOTA",
+	    "Company":"BLUE FLINT ETHANOL LLC",
+	    "Site Name":"UNDERWOOD",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NORTH DAKOTA",
+	    "Company":"HANKINSON RENEWABLE ENERGY LLC",
+	    "Site Name":"EL DORADO",
+	    "(MM gal / yr)":130,
+	    "(mb/d)":8
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NORTH DAKOTA",
+	    "Company":"RED TRAIL ENERGY LLC",
+	    "Site Name":"RICHARDTON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"NORTH DAKOTA",
+	    "Company":"THARALDSON ETHANOL LLC",
+	    "Site Name":"CASSELTON",
+	    "(MM gal / yr)":153,
+	    "(mb/d)":10
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"ANDERSONS MARATHON ETHANOL LLC",
+	    "Site Name":"GREENVILLE",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"FOSTORIA ETHANOL LLC",
+	    "Site Name":"FOSTORIA",
+	    "(MM gal / yr)":65,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"GUARDIAN LIMA LLC",
+	    "Site Name":"LIMA",
+	    "(MM gal / yr)":54,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"MARION ETHANOL LLC",
+	    "Site Name":"MARION",
+	    "(MM gal / yr)":65,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"SUMMIT ETHANOL LLC",
+	    "Site Name":"LEIPSIC",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"THREE RIVERS ENERGY LLC",
+	    "Site Name":"COSHOCTON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"OHIO",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"BLOOMINGBURG",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"ABE SOUTH DAKOTA LLC",
+	    "Site Name":"ABERDEEN I",
+	    "(MM gal / yr)":9,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"ABE SOUTH DAKOTA LLC",
+	    "Site Name":"ABERDEEN II",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"ABE SOUTH DAKOTA LLC",
+	    "Site Name":"HURON",
+	    "(MM gal / yr)":30,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"DAKOTA ETHANOL LLC",
+	    "Site Name":"WENTWORTH",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"GLACIAL LAKES ENERGY LLC",
+	    "Site Name":"MINA",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"GLACIAL LAKES ENERGY LLC",
+	    "Site Name":"WATERTOWN",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"GREAT PLAINS ETHANOL LLC",
+	    "Site Name":"CHANCELLOR",
+	    "(MM gal / yr)":100,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"JAMES VALLEY ETHANOL LLC",
+	    "Site Name":"GROTON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"NORTHERN LIGHTS ETHANOL LLC",
+	    "Site Name":"BIG STONE CITY",
+	    "(MM gal / yr)":75,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"NUGEN ENERGY LLC",
+	    "Site Name":"MARION",
+	    "(MM gal / yr)":112,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"POET RESEARCH CENTER",
+	    "Site Name":"SCOTLAND",
+	    "(MM gal / yr)":11,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"PRAIRIE ETHANOL LLC",
+	    "Site Name":"MITCHELL",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"RED RIVER ENERGY LLC",
+	    "Site Name":"RED RIVER ENERGY LLC",
+	    "(MM gal / yr)":20,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"REDFIELD ENERGY LLC",
+	    "Site Name":"REDFIELD",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"SIOUX RIVER ETHANOL LLC",
+	    "Site Name":"HUDSON",
+	    "(MM gal / yr)":45,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"SOUTH DAKOTA",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"AURORA",
+	    "(MM gal / yr)":120,
+	    "(mb/d)":8
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"TENNESSEE",
+	    "Company":"GREEN PLAINS OBION LLC",
+	    "Site Name":"OBION",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"ACE ETHANOL LLC",
+	    "Site Name":"STANLEY",
+	    "(MM gal / yr)":30,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"BADGER STATE ETHANOL LLC",
+	    "Site Name":"MONROE",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"BIG RIVER RESOURCES BOYCEVILLE LLC",
+	    "Site Name":"BOYCEVILLE",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"DIDION ETHANOL LLC",
+	    "Site Name":"JOHNSON CREEK",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"FOX RIVER VALLEY ETHANOL LLC",
+	    "Site Name":"FOX RIVER VALLEY ETHANOL LLC",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"MARQUIS ENERGY WISCONSIN LLC",
+	    "Site Name":"NECEDAH",
+	    "(MM gal / yr)":75,
+	    "(mb/d)":5
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"UNITED ETHANOL LLC",
+	    "Site Name":"MILTON",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"UNITED WISCONSIN GRAIN PRODUCERS LLC",
+	    "Site Name":"FRIESLAND",
+	    "(MM gal / yr)":60,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 2",
+	    "State":"WISCONSIN",
+	    "Company":"VALERO RENEWABLE FUELS LLC",
+	    "Site Name":"JEFFERSON",
+	    "(MM gal / yr)":110,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 3",
+	    "State":"MISSISSIPPI",
+	    "Company":"ERGON BIOFUELS LLC",
+	    "Site Name":"ERGON",
+	    "(MM gal / yr)":57,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 3",
+	    "State":"TEXAS",
+	    "Company":"DIAMOND ETHANOL LLC",
+	    "Site Name":"LEVELLAND",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 3",
+	    "State":"TEXAS",
+	    "Company":"HEREFORD RENEWABLE ENERGY LLC",
+	    "Site Name":"HEREFORD",
+	    "(MM gal / yr)":105,
+	    "(mb/d)":7
+	  },
+	  {
+	    "PADD":"PADD 3",
+	    "State":"TEXAS",
+	    "Company":"WHITE ENERGY HEREFORD LLC",
+	    "Site Name":"HEREFORD",
+	    "(MM gal / yr)":120,
+	    "(mb/d)":8
+	  },
+	  {
+	    "PADD":"PADD 3",
+	    "State":"TEXAS",
+	    "Company":"WHITE ENERGY PLAINVIEW LLC",
+	    "Site Name":"PLAINVIEW",
+	    "(MM gal / yr)":120,
+	    "(mb/d)":8
+	  },
+	  {
+	    "PADD":"PADD 4",
+	    "State":"COLORADO",
+	    "Company":"FRONT RANGE ENERGY LLC",
+	    "Site Name":"WINDSOR",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 4",
+	    "State":"COLORADO",
+	    "Company":"STERLING ETHANOL LLC",
+	    "Site Name":"STERLING",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 4",
+	    "State":"COLORADO",
+	    "Company":"YUMA ETHANOL LLC",
+	    "Site Name":"YUMA",
+	    "(MM gal / yr)":40,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 4",
+	    "State":"IDAHO",
+	    "Company":"PACIFIC ETHANOL MAGIC VALLEY LLC",
+	    "Site Name":"BURLEY",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 4",
+	    "State":"WYOMING",
+	    "Company":"WYOMING ETHANOL LLC",
+	    "Site Name":"WYOMING",
+	    "(MM gal / yr)":10,
+	    "(mb/d)":1
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"ARIZONA",
+	    "Company":"PINAL ENERGY LLC",
+	    "Site Name":"MARICOPA",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"CALIFORNIA",
+	    "Company":"AEMETIS ADVANCED FUELS KEYES INC",
+	    "Site Name":"AEMETIS",
+	    "(MM gal / yr)":55,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"CALIFORNIA",
+	    "Company":"CALGREN RENEWABLE FUELS LLC",
+	    "Site Name":"PIXLEY",
+	    "(MM gal / yr)":58,
+	    "(mb/d)":4
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"CALIFORNIA",
+	    "Company":"PACIFIC ETHANOL MADERA LLC",
+	    "Site Name":"MADERA",
+	    "(MM gal / yr)":35,
+	    "(mb/d)":2
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"CALIFORNIA",
+	    "Company":"PACIFIC ETHANOL STOCKTON LLC",
+	    "Site Name":"STOCKTON",
+	    "(MM gal / yr)":50,
+	    "(mb/d)":3
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"CALIFORNIA",
+	    "Company":"PARALLEL PRODTS OF CALIFORNIA",
+	    "Site Name":"RANCHO CUCAMONGA",
+	    "(MM gal / yr)":2,
+	    "(mb/d)":0
+	  },
+	  {
+	    "PADD":"PADD 5",
+	    "State":"OREGON",
+	    "Company":"PACIFIC ETHANOL COLUMBIA LLC",
+	    "Site Name":"BOARDMAN",
+	    "(MM gal / yr)":35,
+	    "(mb/d)":2
+	  }
+	]
+}
