@@ -22,19 +22,20 @@
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-lg-12">
-            <h1>U.S. Fuel Ethanol Plant Production</h1>
-            <p>some explanatory text about what is being shown.</p>
+            <h1>U.S. Fuel Ethanol Plant Production Capacity</h1>
+            <h3>Looking at the Petroleum Administration for Defense Districts</h3>
+            <p>The Petroleum Administration for Defense Districts were created during World War II to help government administrators account for fuel supplies throughout the nation.</p>
         </div>
     </div>
     <hr>
     <div class="row">
         <!-- Map -->
-        <div class="col-xs-12 col-lg-10 col-lg-offset-2">
+        <div class="col-xs-12 col-lg-10 col-lg-offset-1">
             <img src="img/map.gif" style="width: 100%;" alt="Map showing PADD districts"/>
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-4 col-lg-4  col-xs-offset-1 col-md-offset-1">
+        <div class="col-sm-4 col-lg-4  col-xs-offset-2 col-md-offset-2">
             <!-- Pie Chart -->
             <h2>PADD Capacity</h2>
             <img src="img/pie_chart.gif" alt="Pie chart showing percentages of PADD capacity" style="max-width: 250px;"/>
@@ -47,9 +48,9 @@
     </div>
     <div class="row">
         <!-- Grouped bar chart -->
-        <div class="col-xs-10 col-xs-offset-1 col-md-offset-1">
-            <h2>State Plant Production Grouped by PADD</h2>
-            <img src="img/plants_grouped_by_padd.gif" style="width: 100%; min-width: 300px; max-width: 700px;" alt="Bar graph showing capacity of each state and grouped by PADD district"/>
+        <div class="col-xs-12 col-lg-10 col-lg-offset-1"
+            <h2>State Plant Production Capacity Grouped by PADD</h2>
+            <img src="img/plants_grouped_by_padd.gif" style="width: 100%; min-width: 300px;" alt="Bar graph showing capacity of each state and grouped by PADD district"/>
         </div>
     </div>
 </div>
@@ -86,7 +87,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-offset-3 col-xs-12 col-lg-6">
-            Source: <a href="http://www.eia.gov/petroleum/ethanolcapacity/">U.S. Energy Information Administration</a>
+            Source: <a href="http://www.eia.gov/petroleum/ethanolcapacity/" target="_blank">U.S. Energy Information Administration</a>
         </div>
     </div>
 </div>
@@ -121,9 +122,6 @@
                 { "mData": "(mb/d)", sDefaultContent: "" }
             ],
             "iDisplayLength": 25,
-            "tableTools": {
-                "sSwfPath": "copy_csv_xls_pdf.swf"
-            },
             responsive: true
         } );
     } );
