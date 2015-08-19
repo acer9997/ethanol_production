@@ -1,0 +1,29 @@
+state,capacity,production,ratio
+Iowa,3963,3968,1.00126167
+Nebraska,1992,1897,0.952309237
+Illinois,1421,1384,0.973961999
+Minnesota,1147,1129,0.984306888
+South Dakota,1019,1019,1
+Indiana,1148,936,0.81533101
+Ohio,528,528,1
+Wisconsin,506,506,1
+Kansas,504,479,0.950396825
+North Dakota,360,360,1
+Michigan,268,268,1
+Missouri,271,256,0.944649446
+Texas,355,205,0.577464789
+California,223,178,0.798206278
+Tennessee,225,225,1
+New York,164,164,1
+Oregon,149,41,0.275167785
+Colorado,125,125,1
+Pennsylvania,110,110,1
+Georgia,101,101,1
+Virginia,65,0,0
+Arizona,55,55,1
+Idaho,54,54,1
+Mississippi,54,0,0
+Kentucky,36,36,1
+New Mexico,30,0,0
+Wyoming,10,10,1
+Louisiana,2,2,1
